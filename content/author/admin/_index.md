@@ -1,6 +1,6 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Gaily Berman"
 
 # Is this the primary user of the site?
 superuser = true
